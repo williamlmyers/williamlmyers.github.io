@@ -632,6 +632,53 @@ a:hover {
   font-size: 0.94rem;
 }
 
+/* Signature Scale Banner */
+.scale-benchmarks {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.philanthropy-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+}
+
+.benchmark-card {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  color: #ffffff;
+  border-radius: var(--radius);
+  padding: 32px;
+  border-left: 4px solid var(--accent-gold);
+  box-shadow: var(--card-shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.benchmark-kicker {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #fcd34d;
+}
+
+.benchmark-figure {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(2.2rem, 3.8vw, 3rem);
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1.1;
+}
+
+.benchmark-desc {
+  font-size: 0.95rem;
+  color: #cbd5e1;
+}
+
 /* Projects Grid */
 .projects-grid {
   display: grid;
