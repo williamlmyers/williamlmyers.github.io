@@ -417,7 +417,7 @@ export default function PortfolioPage() {
                 Over three decades directing enterprise IT operations and database systems, combined
                 with extensive nationwide GEO (Generative Engine Optimization) implementations under
                 The James Group and agentic AI development across Antigravity, Claude Code, Gemini,
-                ChatGPT, and Codex.
+                ChatGPT, Codex, and Replit.
               </p>
             </article>
             <article className="pillar-card">
@@ -687,7 +687,7 @@ export default function PortfolioPage() {
                 <li>
                   <strong>Artificial Intelligence (AI) Generalist</strong> &mdash; Multi-Platform AI
                   &amp; Agentic Development (Gemini, ChatGPT, Codex, Claude, Claude Code,
-                  Antigravity)
+                  Antigravity, Replit)
                 </li>
                 <li>
                   <strong>Preferred Advisory Vendor</strong> &mdash; C-PACE Financing (Partnering
@@ -756,6 +756,7 @@ export default function PortfolioPage() {
                 <span>Claude &amp; Claude Code</span>
                 <span>Google Gemini</span>
                 <span>ChatGPT &amp; OpenAI Codex</span>
+                <span>Replit</span>
                 <span>Multi-Platform AI Orchestration</span>
                 <span>Oracle Databases &amp; Oracle9i RAC</span>
                 <span>Oracle PL/SQL, HTMLDB, WebDB, Portal, iDS</span>
